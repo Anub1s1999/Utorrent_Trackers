@@ -23,99 +23,139 @@ udp://tracker.openbittorrent.com:80/ann…
 udp://9.rarbg.com:2710/announce
 
 udp://open.acgtracker.com:1096/announce
+
 http://open.acgtracker.com:1096/announce
 
 udp://tracker.aletorrenty.pl:2710/announce
+
 http://tracker.aletorrenty.pl:2710/announce
 
 udp://anisaishuu.de:2710/announce
+
 http://anisaishuu.de:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
+
 http://p4p.arenabg.com:1337/announce
 
 udp://tracker.dutchtracking.com:80/announce
+
 http://tracker.dutchtracking.com:80/announce
 
 udp://tracker.dutchtracking.nl:80/announce
+
 http://tracker.dutchtracking.nl:80/announce
 
 udp://tracker.ex.ua:80/announce
+
 http://tracker.ex.ua:80/announce
 
 udp://explodie.org:6969/announce
+
 http://explodie.org:6969/announce
 
 udp://torrent.gresille.org:80/announce
+
 http://torrent.gresille.org:80/announce
 
 udp://tracker.kicks-ass.net:80/announce
+
 http://tracker.kicks-ass.net:80/announce
 
 udp://retracker.krs-ix.ru:80/announce
+
 http://retracker.krs-ix.ru:80/announce
 
 udp://megapeer.org:6969/announce
+
 http://megapeer.org:6969/announce
 
 udp://mgtracker.org:2710/announce
+
 http://mgtracker.org:2710/announce
 
 udp://tracker.ohys.net:80/announce
+
 http://tracker.ohys.net:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 udp://tracker4.piratux.com:6969/announce
+
 http://tracker4.piratux.com:6969/announce
 
 udp://tracker.pubt.net:2710/announce
+
 http://tracker.pubt.net:2710/announce
+
 udp://pubt.net:2710/announce
+
 http://pubt.net:2710/announce
 
 udp://9.rarbg.com:80/announce
+
 udp://9.rarbg.com:2710/announce
 
 udp://tracker.skyts.net:6969/announce
+
 http://tracker.skyts.net:6969/announce
 
 udp://retracker.telecom.kz:80/announce
+
 http://retracker.telecom.kz:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
+
 http://tracker.tiny-vps.com:6969/announce
 
 udp://tracker2.torrentino.com:80/announce
+
 http://tracker2.torrentino.com:80/announce
 
 udp://torrentsmd.com:6969/announce
+
 udp://torrentsmd.com:8080/announce
+
 http://torrentsmd.com:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 udp://tracker.tricitytorrents.com:2710/announce
+
 http://tracker.tricitytorrents.com:2710/announce
 
 udp://www.wareztorrent.com:80/announce
+
 udp://www.wareztorrent.com:6969/announce
+
 http://www.wareztorrent.com:80/announce
+
 http://www.wareztorrent.com:6969/announce
 
 udp://tracker1.infohash.org:80/announce
+
 udp://tracker1.infohash.org:6969/announce
+
 http://tracker1.infohash.org:80/announce
+
 http://tracker1.infohash.org:6969/announce
 
 udp://tracker4.infohash.org:80/announce
+
 udp://tracker4.infohash.org:6969/announce
+
 http://tracker4.infohash.org:80/announce
+
 http://tracker4.infohash.org:6969/announce
 
 udp://91.218.230.81:80/announce
+
 udp://91.218.230.81:6969/announce
+
 http://91.218.230.81:80/announce
+
 http://91.218.230.81:6969/announce
 
 http://mgtracker.org:2710/announce
